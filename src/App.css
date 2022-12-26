@@ -1,0 +1,32 @@
+
+body{
+
+  background-color: #c5e4e7;
+  color:#638788;
+}
+
+.billI::placeholder{
+  color: #b9cecd;
+ 
+}
+
+#btnTip{
+  background-color: #00474b;
+ 
+color: white;
+  
+}
+
+#btnTip:checked{
+  background-color: #9de7de;
+  color: #00474b;
+
+}
+.cardResultado{
+  background-color: #00474b;
+}
+
+#reset {
+  background-color:#26c2ad;
+  color: #00474b;
+}
