@@ -1,4 +1,3 @@
-import { MdOutlineAttachMoney } from "react-icons/all";
 
 import { useState, useEffect } from "react";
 import BtnTip from "./BtnTip";
